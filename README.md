@@ -14,7 +14,7 @@
 1.Kamil Chmielowski</br>
 2.Rafał Durzyński - Stworzyć(widok, kontroler) dla Zakładów</br>
 3.Mateusz Charkot</br>
-4.Tomasz Kłyż - Stworzyć(widok, kontroler) dla użytkowników oraz połączenie z zewnętrzną bazą danych/br>
+4.Tomasz Kłyż - Stworzyć(widok, kontroler) dla użytkowników oraz połączenie z zewnętrzną bazą danych</br>
 5.Sebastian Cytawa - Stworzyć(widok, kontroler) dla Rezerwacji</br>
 6.Paweł Czuchaj - Stworzyć(widok, kontroler) dla  Usług</br>
 7.Kamil Jonaszko</br>
